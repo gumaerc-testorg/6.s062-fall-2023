@@ -2,7 +2,7 @@
 content_type: page
 description: This page presents an embedded episode of the Chalk Radio podcast, featuring
   an interview with Prof. Hal Abelson.
-draft: true
+draft: false
 title: Instructor Insights
 uid: 22217aa4-fb29-4d00-8394-c1ec87f3f73b
 ---
