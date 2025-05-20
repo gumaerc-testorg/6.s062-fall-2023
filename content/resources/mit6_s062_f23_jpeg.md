@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/6-s062-generative-artificial-intelligence-in-k12-education-fall-2023/mit6_s062_f23.jpeg
+file: courses/generative-artificial-intelligence-in-k12-education/mit6_s062_f23.jpeg
 file_size: 32887
 file_type: image/jpeg
 image_metadata:
